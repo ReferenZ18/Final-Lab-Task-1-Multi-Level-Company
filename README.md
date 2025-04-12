@@ -1,4 +1,4 @@
-# Final-Lab-Task-1-My-SQL-Basics
+# Final Lab Task 1 - MySQL Basics
 
 In this task, we used MySQL to create a functional database and learned how to properly write and execute the required SQL queries. We were tasked with creating multiple tables that represent a sample company, which were later linked through relationships.
 
