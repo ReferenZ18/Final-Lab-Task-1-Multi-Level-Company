@@ -46,5 +46,5 @@
   <img src="Images/Manager-Structure.png" alt="Alt Text" Width="600" height="100">
 
 ## Entity-Relational Schema
-<br>
+
   <img src="Images/Entity-Relation.jpg" alt="Alt Text" Width="900" height="400">
